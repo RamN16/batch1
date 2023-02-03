@@ -1,0 +1,6 @@
+Day 01
+---------------
+1.Introduction to GIT
+2.GIT Tool Install
+3. GIT init
+4.Folder create
